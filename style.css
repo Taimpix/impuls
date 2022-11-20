@@ -6,7 +6,11 @@ body {
     display: inline;
 }
 
+hr {
+    color: black;
+}
+
 header img {
-	max-width: 50px;
+    max-width: 50px;
     float: left;
 }
