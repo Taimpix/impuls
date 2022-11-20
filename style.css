@@ -1,6 +1,6 @@
 body {
 	/*background-color: #00FF99;, #009933*/
-	background: -moz-linear-gradient(top left, #009933, #00FF99);
+    background: -moz-linear-gradient(top left, #009933, #00FF99);
     background: -webkit-radial-gradient(top left, #009933, #00FF99);
     background: -o-radial-gradient(top left, #009933, #00FF99);
     background: -ms-radial-gradient(top left, #009933, #00FF99);
