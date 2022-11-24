@@ -17,7 +17,6 @@ header img {
   margin-left: 10px;
 }
 
-
 hr {
   height: 3px;
   border: 0;
@@ -27,5 +26,5 @@ hr {
 img {
  float: left;
  max-width: 150px;
- width: device-width;
+ width: auto;
 }
