@@ -1,18 +1,31 @@
 body {
-    background-color: #66CC66;
+  font-style: Arial;
+  background-color: #1D2C3B;
 }
 
-.cent {
-    display: inline;
-}
-
-hr {
-    height: 3px;
-    border: 0;
-    background-color: gray;
+header {
+  display: flex;
+  background: #F7EC3F;
+  padding: 10xp;
+  align-items: center;
+  border-radius: 5px;
 }
 
 header img {
-    max-width: 50px;
-    float: left;
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+
+hr {
+  height: 3px;
+  border: 0;
+  background-color: white;
+}
+
+img {
+ float: left;
+ max-width: 150px;
+ width: device-width;
 }
