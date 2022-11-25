@@ -1,10 +1,12 @@
 body {
   font-style: Arial;
   background-color: #1D2C3B;
+  color: white;
 }
 
 header {
   display: flex;
+  color: black;
   background: #F7EC3F;
   padding: 10xp;
   align-items: center;
@@ -25,6 +27,14 @@ hr {
 
 img {
  float: left;
- max-width: 150px;
- width: auto;
+ width: 40%;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+.dol {
+  color: white;
+  border: solid;
+  border-radius: 5px;
+  text-decoration: none;
 }
